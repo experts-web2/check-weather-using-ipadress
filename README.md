@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with create-react-app.
+This project was bootstrapped with create-react-app. Front End is built with React using TypeScript and Taliwind CSS.
 
 ## get APi key
 You have to get API key from https://app.ipbase.com/ and replace it into environment.tsx file.
